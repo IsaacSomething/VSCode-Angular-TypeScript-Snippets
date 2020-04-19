@@ -2118,6 +2118,14 @@
       "<button mat-button>${text}</button>$0"
     ]
   },
+  "Material flat Button": {
+    "prefix": "m-button-flat",
+    "description": "Flat Material button w/ no elevation.",
+    "types": "typescript, html",
+    "body": [
+      "<button mat-flat-button>${text}</button>$0"
+    ]
+  },
   "Material Raised Button": {
     "prefix": "m-button-raised",
     "description": "Rectangular Material button w/ elevation.",
